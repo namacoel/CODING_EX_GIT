@@ -1,7 +1,6 @@
 {
   "name": "MODULE",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "esm": "^3.2.25"
@@ -15,5 +14,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
